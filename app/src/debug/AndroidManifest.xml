@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.robolectric_test">
+
+    <application>
+        <activity
+            android:name="example.robolectric_test.HiltTestActivity"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".RoboTestActivity"-->
+<!--            android:exported="true" />-->
+    </application>
+</manifest>
